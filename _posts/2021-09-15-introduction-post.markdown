@@ -12,7 +12,9 @@ from Operating Systems. What was difficult was finding which order I needed to i
 pieces early and in the wrong files so that took me a few minutes to figure out. Things im looking forwards to are:
 
 *Using markdown which is easier than HTML
+
 *Being able to use and edit my own blog
+
 *Although unrelated start working on our final project
 
 This blog is all possible thanks to [Jekyll](https://jekyllrb.com/) , and [Markdown](https://daringfireball.net/projects/markdown/basics).
