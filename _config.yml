@@ -15,7 +15,7 @@
 # in the templates via {{ site.myvariable }}.
 title: THE POG BLOG
 email: caseyde@hendrix.edu
-description: >- This blog is all about me being pog
+description: >- # This blog is all about me being pog
 baseurl: "/blog" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: donthaveone@idontusetwitter
