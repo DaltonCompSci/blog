@@ -15,5 +15,5 @@ Things that were new to me were all the bugs I encountered and new markdown bits
 
 If you ever want to buy airsoft equipment I recommend [Airsoft Gi](https://www.airsoftgi.com/) , and [Evike](https://www.evike.com/).
 
-![Airsoft man!](/blog/assets/airsoftman.jpg)
-![Sniper!](/blog/assets/sniper.jpg)
+![Airsoft man!](/blog/assets/airsoftman.png)
+![Sniper!](/blog/assets/sniper.png)
