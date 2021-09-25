@@ -12,10 +12,10 @@ The owner could or could not list many items. Customers when on the website then
 have one or more orders. Those orders had to contain one or more items in them. What I regret about
 the project is that I believe I chose the wrong graph for this project becuase rather than FK's and PK's
 I was only able to use M-Manditory and PI. I wanted customer Id to be a FK and all PI's to be PK's. I also
-wanted my Item ID to be a PK FK. 
+wanted my Item ID to be a PK FK.
 
 
 
 
-![first](/blog/assets/groc.jpg)
+![first](/blog/assets/Entity.jpeg)
 ![Second](/blog/assets/vert.jpg)
