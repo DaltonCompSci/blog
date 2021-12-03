@@ -1,7 +1,4 @@
-layout: post
-title:  "Entity Framework"
-date:   2021-12-03 13:36:11 -0500
-categories: jekyll update
+
 ---
 
 ### Entity Framework!
